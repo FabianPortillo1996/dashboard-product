@@ -230,8 +230,8 @@ function ProductsTable({ dataFilter, idCommerce }) {
                   // onClick={(event) => handleClick(n)}
                 >
                   <TableCell className="p-4 md:p-16" component="th" scope="row">
-                    {n?.photo?.url && (
-                      <img className="block w-52 h-52 rounded" src={n.photo.url} alt={n.name} />
+                    {n?.photo[0]?.url && (
+                      <img className="block w-52 h-52 rounded" src={n?.photo[0]?.url} alt={n.name} />
                     )}
                   </TableCell>
 

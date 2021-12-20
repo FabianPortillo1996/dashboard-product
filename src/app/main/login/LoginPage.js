@@ -93,13 +93,13 @@ function LoginPage() {
               <div className="flex items-center mb-48">
                 <img
                   className="logo-icon w-48"
-                  src="assets/images/logos/tender-dark.svg"
+                  src="https://www.muncher.com.co/wp-content/uploads/2021/04/Muncher-Cocinas-Ocultas-header.svg"
                   alt="logo"
                 />
                 <div className="border-l-1 mr-8 ml-8 w-1 h-40" />
                 <div>
                   <Typography className="text-24 font-semibold logo-text" color="inherit">
-                    WUAY
+                    Muncher
                   </Typography>
                   {/* <Typography */}
                   {/*  className="text-16 tracking-widest -mt-8 font-700" */}

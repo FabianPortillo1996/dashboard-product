@@ -28,7 +28,7 @@ function Logo() {
 
   return (
     <div className={clsx(classes.root, 'flex items-center')}>
-      <img className="logo-icon w-24 h-24" src="assets/images/logos/tender.svg" alt="logo" />
+      <img className="logo-icon w-24 h-24" src="https://www.muncher.com.co/wp-content/uploads/2021/04/Muncher-Cocinas-Ocultas-header.svg" alt="logo" />
       <Typography className="text-16 leading-none mx-12 font-medium logo-text" color="inherit">
         Prueba
       </Typography>
