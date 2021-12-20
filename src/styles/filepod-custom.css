@@ -1,0 +1,11 @@
+/* the background color of the filepond drop area */
+.filepond--panel-root {
+    background-color: #051B34 !important;
+}
+/* the text color of the drop label*/
+.filepond--drop-label {
+    font-size: 1.4rem !important;
+    color: white !important;
+    min-height: 4rem !important;
+    font-weight: 600 !important;
+}
